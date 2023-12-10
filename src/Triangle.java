@@ -1,9 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose a concrete class that represents a triangle and its characteristics
- */
+
 public class Triangle extends TwoDimensionalShape {
     private double base_length;
     private double height;

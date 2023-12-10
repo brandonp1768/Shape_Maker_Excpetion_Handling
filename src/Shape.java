@@ -1,10 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose an abstract class that represents parts of a shape like side, color, and dimension to let other clases
- * that will be more specific to inherit methods from the shape class
- */
+
 public abstract class Shape {
     private int sides;
     private String dimension;

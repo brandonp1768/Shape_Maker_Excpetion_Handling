@@ -1,9 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2-2023
- * @section CSC-331-002
- * @purpose a concrete class that represents a cube and all its characteristics
- */
+
 public class Cube extends ThreeDimensionalShape {
     private double length_side; // length of each side of the cube
     // Constructor

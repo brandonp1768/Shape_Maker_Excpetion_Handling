@@ -1,9 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/24/2023
- * @section CSC-331-002
- * @purpose a concrete class that represents a circle and its characteristics
- */
+
 public class Circle extends TwoDimensionalShape {
     private double radius;
     private double width;

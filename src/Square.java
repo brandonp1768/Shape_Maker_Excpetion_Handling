@@ -1,9 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose a concrete class that represents a square and its characteristics
- */
+
 public class Square extends TwoDimensionalShape{
     private double side_length;
     // Constructor

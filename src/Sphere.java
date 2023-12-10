@@ -1,9 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose a concrete class that represents a sphere and all of its characteristics
- */
+
 public class Sphere extends ThreeDimensionalShape { // the formula for the sphere is 4PIr**2
     private double diameter;
     private double radius;

@@ -1,10 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose an abstract class that represents a two-dimensional shape that will let more specific shapes
- * inherit its methods and characteristics
- */
+
 public abstract class TwoDimensionalShape extends Shape{ // make sure that you put labels on to all the getarea methods
     private String name;
     /**

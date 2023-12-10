@@ -2,8 +2,7 @@ import java.util.InputMismatchException;
 import java.util.Scanner;
 
 
-public class ShapeDriver { // all that is left is only displaying two decimal places for the numbers
-    // limit the number of decimal places that are displayed from the area and volume and all the other stuff
+public class ShapeDriver {
 
     /**
      * @param args allows us to pass arguments through the main method

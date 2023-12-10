@@ -1,10 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose an abstract class that represents a three-dimensional shape that will let more specific shapes
- * inherit its methods and characteristics
- */
+
 public abstract class ThreeDimensionalShape extends Shape{
     private String name;
     /**

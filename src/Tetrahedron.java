@@ -1,9 +1,4 @@
-/**
- * @author Brandon Plyler
- * @date 3/31/2023
- * @section CSC-331-002
- * @purpose a concrete class that represents a tetrahedron and all of its characteristics
- */
+
 public class Tetrahedron extends ThreeDimensionalShape {
     private double length_side;
     // Constructor
