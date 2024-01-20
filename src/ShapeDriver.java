@@ -136,6 +136,7 @@ public class ShapeDriver {
                 System.out.printf("%s%10.2f\n\n", "Volume:", v);
             }
         }
+        input.close();
         System.out.println("Goodbye!");
     }
 }
